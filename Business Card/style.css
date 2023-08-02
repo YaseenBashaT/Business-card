@@ -1,0 +1,23 @@
+body{
+    margin : 20px;
+}
+.card {
+    background-color: rgb(150, 237, 151);
+    border-bottom: 7px solid rgb(16, 61, 1);
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Trebuchet MS', sans-serif;   
+    display: flex;
+    justify-content: space-around;
+    width : 450px;
+    margin : 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img {
+    width: 150px;
+    border-radius: 6px;
+    
+}
+.details {
+    text-align: center;
+}
